@@ -1,5 +1,7 @@
 In this fork of vkQuake3 - I'm wokring on macOS support ......
 
+Switch to the: macos-support branch ....
+
 ==============================================================================
 
                    ,---------------------------------------.
